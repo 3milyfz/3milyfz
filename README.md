@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Emily, a second-year Computer Science Speciali
 
 ## Let's Connect
 
-I'm always open to collaboration and new opportunities. Feel free to reach out to me via email or connect with me on LinkedIn. Don't forget to check out my repositories and give them a star if you find them interesting!
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via email or connect with me on LinkedIn.
 
 - 📧 **Email**: [emilyfaith.zhou@mail.utoronto.ca](mailto:emilyfaith.zhou@mail.utoronto.ca)
 - 👥 **LinkedIn**: [https://www.linkedin.com/in/emily-fz/](https://www.linkedin.com/in/emily-fz/)
