@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, World!
 
-<!--
-**3milyfz/3milyfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Emily, a second-year Computer Science Specialist student at the University of Toronto. This is where I share my projects, code, and contributions to the open-source community.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**: Completing a BS in Computer Science with a minor in Statistics at the University of Toronto.
+- 🔍 **Interests**: Software development, AI technologies, product management, and ANIME.
+- 🌱 **Goals**: To make a positive impact through technology and contribute to projects that can benefit society.
+
+## Let's Connect
+
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via email or connect with me on LinkedIn. Don't forget to check out my repositories and give them a star if you find them interesting!
+
+- 📧 **Email**: [emilyfaith.zhou@mail.utoronto.ca](mailto:emilyfaith.zhou@mail.utoronto.ca)
+- 👥 **LinkedIn**: [https://www.linkedin.com/in/emily-fz/](https://www.linkedin.com/in/emily-fz/)
+
+## Thanks for Visiting!
+
+Thanks for stopping by! If you have any questions, suggestions, or just want to say hello, feel free to get in touch. Happy coding! 🚀👩🏻‍💻
