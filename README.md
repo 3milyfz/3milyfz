@@ -14,6 +14,7 @@ I'm always open to collaboration and new opportunities. Feel free to reach out t
 
 - 📧 **Email**: [emilyfaith.zhou@mail.utoronto.ca](mailto:emilyfaith.zhou@mail.utoronto.ca)
 - 👥 **LinkedIn**: [https://www.linkedin.com/in/emily-fz/](https://www.linkedin.com/in/emily-fz/)
+- 🖥️ **Personal Website**: [https://emilyzhou.netlify.app/](https://emilyzhou.netlify.app/)
 
 ## Thanks for Visiting!
 
