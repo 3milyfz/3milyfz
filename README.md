@@ -18,4 +18,4 @@ I'm always open to collaboration and new opportunities. Feel free to reach out t
 
 ## Thanks for Visiting!
 
-Thanks for stopping by! If you have any questions, suggestions, or just want to say hello, feel free to get in touch. Happy coding! 👩🏻‍💻
+Thanks for stopping by! If you have any questions, suggestions, or just want to say hello, feel free to get in touch. 👩🏻‍💻
