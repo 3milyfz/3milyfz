@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm Emily, a second-year Computer Science Speciali
 
 - 🎓 **Education**: Completing a BS in Computer Science with a minor in Statistics at the University of Toronto.
 - 🌱 **Goals**: To make a positive impact through technology and contribute to projects that can benefit society.
-- 🖥️ **More info on my personal website**: [https://emilyzhou.netlify.app/](https://emilyzhou.netlify.app/)
 
 ## Let's Connect
 
