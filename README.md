@@ -1,6 +1,6 @@
 # Hello, World!
 
-I'm Emily, a second-year Computer Science Specialist student at the University of Toronto. This is where I share my projects, code, and contributions to the open-source community!
+I'm Emily and this is where I share my projects, code, and contributions to the open-source community!
 
 ## About Me
 
