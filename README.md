@@ -9,6 +9,6 @@ I'm Emily and this is where I share my projects, code, and contributions to the 
 
 ## Let's Connect
 
-I'm always open to collaboration and new opportunities. Feel free to connect with me on LinkedIn.
+I'm always open to collaboration and new opportunities. Feel free to connect with me on LinkedIn!
 
 - 👥 **LinkedIn**: [https://www.linkedin.com/in/emily-fz/](https://www.linkedin.com/in/emily-fz/)
